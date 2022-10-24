@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "DGTHUM Project",
+    "description": "",
+    "home_page_url": "https://codingdianat.github.io/DGTHUM110",
+    "feed_url": "https://codingdianat.github.io/DGTHUM110/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Diana Tran"
+    },
+    "items": [
+    ]
+}

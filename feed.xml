@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>DGTHUM Project</title>
+    <link href="https://codingdianat.github.io/DGTHUM110/feed.xml" rel="self" />
+    <link href="https://codingdianat.github.io/DGTHUM110" />
+    <updated>1969-12-31T16:00:00-08:00</updated>
+    <author>
+        <name>Diana Tran</name>
+    </author>
+    <id>https://codingdianat.github.io/DGTHUM110</id>
+
+</feed>
